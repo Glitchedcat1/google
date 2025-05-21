@@ -1,7 +1,7 @@
 const { createProxyMiddleware } = require("http-proxy-middleware");
 
 module.exports = (req, res) => {
-  let target = "https://dm-unbl0cker-bare-server-taupe.vercel.app/";//your website url
+  let target = "https://google-gray-two.vercel.app/";//your website url
   //   if (
   //     req.url.startsWith("/api") ||
   //     req.url.startsWith("/auth") ||
